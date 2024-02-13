@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/anadir_videojuego" android:title="Añadir Videojuego"/>
+    <item android:id="@+id/eliminar_videojuego" android:title="Eliminar Videojuego"/>
+    <item android:id="@+id/listado_videojuegos" android:title="Lista Videojuegos"/>
+</menu>

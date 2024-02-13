@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248653691200",
+    "project_id": "gestionvideojuegos-2e3b1",
+    "storage_bucket": "gestionvideojuegos-2e3b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248653691200:android:cd49cc711fc79aae3022a5",
+        "android_client_info": {
+          "package_name": "com.example.gestionvideojuegos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUi3nDpUSycPoxF15t68XUqUzeCmoeEFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
